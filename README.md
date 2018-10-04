@@ -1,5 +1,5 @@
-# Densecap-tensorflow
-
+# Densecap-tensorflow under windows 10, did not complete now
+forked from Linjie Yang
 Implementation of CVPR2017 paper: [Dense captioning with joint inference and visual context](https://arxiv.org/abs/1611.06949) by **Linjie Yang, Kevin Tang, Jianchao Yang, Li-Jia Li**
 
 **WITH CHANGES:**  
